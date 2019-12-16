@@ -12,5 +12,4 @@ If you want to load them, you can download them and place them in the root dir i
     
     
     
-    
-    The models are not mine, I found them online and all the rights are deserved my them.
+The models are not mine, I found them online and all the rights are deserved my them.
