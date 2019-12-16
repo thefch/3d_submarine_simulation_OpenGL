@@ -7,7 +7,7 @@ The Models are not included in the repository and it will not load them, if you 
 of them from the display() and init() functions.
 
 
-If you want to load them, you can download them and place them in the root dir inside the "Model" folder that are downloaded with.
+If you want to load them, you can download them and place them in the root dir inside a "Model" folder(if does not exists, create it).
     ===> use this link: https://drive.google.com/drive/folders/17FIkzjvQJCqrMftPVe9TCQWx5rLtdJWN?usp=sharing
     
     
