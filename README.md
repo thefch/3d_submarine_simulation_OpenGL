@@ -12,7 +12,7 @@ The Models are <em>not included in the repository</em> and it will not load them
 
 ---
 
-If you want to load them, you can download them and place them in the root dir inside a "Model" folder(if does not exists, create it).
+If you want to load them, you can download them and place them in the root dir inside a "Model" folder (if does not exists, create it).
 > use this link: https://drive.google.com/drive/folders/17FIkzjvQJCqrMftPVe9TCQWx5rLtdJWN?usp=sharing
     
     
