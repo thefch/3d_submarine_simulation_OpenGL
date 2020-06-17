@@ -8,7 +8,7 @@ This was an assingment for Graphics 2 module, which is a submarine simulation.
 * There are 3 other camera views that can be displayed with the number keys 2,3 and 4.
 
 ### Notes
-The Models are <em>not included in the repository</em> and it will not load them, if you do not want them comment out the render commands from ```display()``` and the load commands from ```init()``` function.
+The Models are **not included in the repository** and it will not load them, if you do not want them comment out the render commands from ```display()``` and the load commands from ```init()``` function.
 
 ---
 
@@ -17,4 +17,4 @@ If you want to load them, you can download them and place them in the root dir i
     
     
     
-<ins>The models are not mine, I found them online and all the rights are deserved my their creators.</ins>
+<em>The models are not mine, I found them online and all the rights are deserved my their creators.</em>
