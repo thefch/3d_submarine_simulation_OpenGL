@@ -1,15 +1,20 @@
-# 3d_submarine_simulation_OpenGL
+# 3D Submarine simulation with OpenGL and C++
 
-This was part of my assingment in Graphics 2. Is a submarine simulation, the keys are A,W,S,D, the arrow keys move the camera, and 
-there are 3 other camera views with 2,3 and 4 keys.
+This was an assingment for Graphics 2 module, which is a submarine simulation.
 
-The Models are not included in the repository and it will not load them, if you do not want them comment out the render and load 
-of them from the display() and init() functions.
+### Keys:
+* The movement keys are A,W,S,D.
+* The arrow keys UP, DOWN, LEFT, RIGHT control the camera.
+* There are 3 other camera views that can be displayed with the number keys 2,3 and 4.
 
+### Notes
+The Models are <em>not included in the repository</em> and it will not load them, if you do not want them comment out the render commands from ```display()``` and the load commands from ```init()``` function.
+
+---
 
 If you want to load them, you can download them and place them in the root dir inside a "Model" folder(if does not exists, create it).
-    ===> use this link: https://drive.google.com/drive/folders/17FIkzjvQJCqrMftPVe9TCQWx5rLtdJWN?usp=sharing
+> use this link: https://drive.google.com/drive/folders/17FIkzjvQJCqrMftPVe9TCQWx5rLtdJWN?usp=sharing
     
     
     
-The models are not mine, I found them online and all the rights are deserved my their creators.
+<ins>The models are not mine, I found them online and all the rights are deserved my their creators.</ins>
